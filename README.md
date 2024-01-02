@@ -17,3 +17,6 @@
 
 [test link reference](images/二二八和平紀念公園.JPG)
 
+插入測試
+![照片](images/二二八和平紀念公園.JPG)
+
